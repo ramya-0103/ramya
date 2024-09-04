@@ -1,0 +1,19 @@
+button[type='submit'] {
+            background-color:#e7181c;
+            border: 2px solid black;
+            color:black;
+            font-size: 14px;
+            border-color:#e7181c;
+            border-width:18px;
+            border-style:solid;
+
+        }
+        button[type='submit']:hover {
+            background-color:grey;
+        }
+.small-button {
+            width: 170px;
+            height: 80px;
+            font-size: 12px;
+            font-family:algerian;
+        }
